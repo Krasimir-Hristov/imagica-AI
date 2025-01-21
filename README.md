@@ -1,4 +1,4 @@
-# Pictoria AI - Personalized AI Photo Generation Platform
+# Imagica-AI - Personalized AI Photo Generation Platform
 
 Transform your photos with the power of AI! Pictoria AI is your ultimate solution for creating/generating professional AI-generated photos, similar to the popular PhotoAI platform. Perfect for LinkedIn headshots, Instagram content, dating profile pictures, and professional portraits. Train AI model on your personal images and generate stunning, high-quality AI-generated photos within minutes.
 
@@ -119,11 +119,9 @@ When training your custom model, ensure:
 - 1:1 resolution (1048x1048 or higher)
 - Images under 45MB total size
 
-### 7. Stripe Setup
 
-Watch our detailed video tutorial for Stripe integration setup: [Stripe Setup Tutorial](https://www.youtube.com/watch?v=7AQNeii5K7E&t=27960s)
 
-### 8. Start Development Server
+### 7. Start Development Server
 
 ```bash
 npm run dev
@@ -151,19 +149,9 @@ Visit `http://localhost:3000` to see your app.
 - **Pro**: 2 trained models/month, 300 images/month
 - **Enterprise**: 5 trained models/month, unlimited images
 
-## 🎥 Tutorial Video
 
-For a complete setup walkthrough, check out our [video tutorial](https://youtu.be/7AQNeii5K7E).
 
 ## 🌟 Show Your Support
 
-Give a ⭐️ if this project helped you!
 
-If you have any question or want a custom build for your business, you can reach out to me via:
 
-- E-mail : codebucks27@gmail.com
-- Twitter: https://twitter.com/code_bucks
-- Instagram: https://www.instagram.com/code.bucks/
-
-MyChannel: https://www.youtube.com/codebucks
-My Website: https://devdreaming.com/
